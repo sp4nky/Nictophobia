@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec27fb072349f12478a96fbbbbc7e10b, type: 3}
+  m_Name: LADO IZQ
+  m_EditorClassIdentifier: 
+  title: 
+  body: "DIRECTOR OF PRODUCT DEVELOPMEN\r\nHEAD STUDIOS\r\n\r\nWRITTEN BY\r\n\r\n\r\n\r\n\r\nSTORY
+    AND NARRATIVE DESING LEAD\r\n\r\nNARRATIVE SCRIPTING\r\n\r\n\r\nDESING DIRECTOR\r\n\r\n\r\nGAMEPLAY
+    DESING\r\n \r\n\r\nSYSTEM DESING\r\n\r\n\r\n\r\nLEVEL DESING\r\n\r\nLEVEL TECHNICAL
+    DESING\r\n\r\n\r\nCOLLISION DESING\r\n\r\n\r\nCHARACTER DESIGNER\r\n\r\nPROGRAMING
+    IN GENERAL\r\n\r\n\r\nCONCEPT ART\r\n\r\nENVOITMENT ART"

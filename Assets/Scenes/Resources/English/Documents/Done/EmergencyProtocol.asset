@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec27fb072349f12478a96fbbbbc7e10b, type: 3}
+  m_Name: EmergencyProtocol
+  m_EditorClassIdentifier: 
+  title: 'From: Galacta Industries
+
+    To: CrewmembersNictosShip
+
+    Subject: Emergency
+    Protocol'
+  body: 'In case of emergency, the Galacta ships have contingency protocols to guarantee
+    the safety of the crew and their cargo.
+
+
+
+    Fire:
+
+    In case of fire, our
+    automatic system will put out the fire using inert gases.
+
+    Warning: Be careful
+    not to breathe these gases.
+
+
+
+    Motor failure .... [Missing data]
+
+
+
+    [Missing
+    data]
+
+    [Missing data]
+
+    [Missing data]
+
+
+
+    ...... or lack of power,
+    glowsticks will fall from deposits scattered across the top of the ship.
+
+    Warning:
+    Do not consume !!, the company will not take charge again if any employee consumes
+    the content of the same.
+
+
+
+
+
+    Sincerely Galacta Industries. '

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec27fb072349f12478a96fbbbbc7e10b, type: 3}
+  m_Name: LADO DER
+  m_EditorClassIdentifier: 
+  title: 
+  body: "Alan Nicotos\r\nGalacta Industries\r\n\r\nIvan Peirot\r\nJonathan Cabrera\r\nChristian
+    Olivera\r\nGonzalo Olascoaga\r\n\r\nEmployed N\xB0 13\r\n\r\nEmployed N\xB0 75\r\n\r\n\r\nEmployed
+    N\xB0 31\r\nUnpaid Employee N\xB0 35\r\n\r\nEmployed N\xB0 34\r\n\r\n\r\nUnpaid
+    Employee N\xB0 30\r\nUnpaid Employee N\xB0 65\r\nIntern\r\n\r\nUnpaid Intern
+    N \xB0 45\r\n\r\nIvan Peirot\r\nChristian Olivera\r\n\r\nJonatan Cabrera\r\nIvan
+    Peirot\r\n\r\nChristian Olivera\r\n\r\nIvan Peirot\r\nJonatan Cabrera\r\n\r\nChristian
+    Olivera\r\n\r\nGonzalo Olascoaga\r\n"

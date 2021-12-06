@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec27fb072349f12478a96fbbbbc7e10b, type: 3}
+  m_Name: ProblemaDeCajas
+  m_EditorClassIdentifier: 
+  title: "De: Draper, Elizabeth\r\nPara: MantenimientoNaveNictos\r\nAsunto: Cajas
+    por todos lados\r\n\r"
+  body: "Estoy cansada de pedir esto!!!\r\n\r\nDejen de dejar cajas por todos lados.
+    Estan en los pasillos, en los ba\xF1os en las salas comunes. Hoy tuve que comer
+    de pie porque habia una caja enorme ocupando todo una mesa. \r\n\r\nTenemos depositos
+    para eso maldita sea!!!\r\n\r\nEs la ultima vez que lo pido...\r\n\r\nAtte. Elizabeth
+    Draper."

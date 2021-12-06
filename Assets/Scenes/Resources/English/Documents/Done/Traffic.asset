@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec27fb072349f12478a96fbbbbc7e10b, type: 3}
+  m_Name: Traffic
+  m_EditorClassIdentifier: 
+  title: 'From: Jim from HR
+
+    To: Tim from Resource Managment'
+  body: 'Tim, the creature you are holding captive in the basement of the ship has
+    to go, i can''t put my head out for you anymore. The rest of HR knows that we
+    are up to something.
+
+
+    Most i can give you is a week, to get a seller, this
+    creature surely sells for good money., especiialy since a lot of people use it
+    as some sort of dancer....
+
+
+    Anyway, we got to get rid of it quick.
+
+
+    Signed,
+    Jim'

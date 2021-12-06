@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec27fb072349f12478a96fbbbbc7e10b, type: 3}
+  m_Name: Fired
+  m_EditorClassIdentifier: 
+  title: 'From: CEO Alan Nicotos
+
+    To: Tim from Resource Managment
+
+    Cc: Human
+    Resource Machine
+
+    Subject: Fired'
+  body: 'Dear Timothy,
+
+    i am very sorry to inform you, that you will have to
+    be let go from the ship and your duties in it. According to multiple sources,
+    you''ve been trafficking alien beasts using this ship''s containment cells, that
+    are meant to keep the pets of everyone on board safe.
+
+
+    You, alongside the
+    foul creatures you have in your containment, will be deported from the ship at
+    once, please don''t try to resist, you know any type of firing would result in
+    your death, it''s in your contract
+
+
+    Sincerely, Nictos''s very own Alan Nicotos'

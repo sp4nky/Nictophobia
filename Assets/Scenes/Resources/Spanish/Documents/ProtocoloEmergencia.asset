@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec27fb072349f12478a96fbbbbc7e10b, type: 3}
+  m_Name: ProtocoloEmergencia
+  m_EditorClassIdentifier: 
+  title: 'De: Galacta Industries
+
+    Para: TripulantesNaveNictos
+
+    Asunto: Protocolo
+    de Emergencia
+
+'
+  body: "En caso de emergencia las naves de Galacta cuentan con protocolos de contingencia
+    para garantizar la seguridad de los tripulantes y su carga. \r\n\r\nIncendio:\r\nEn
+    caso de incendio nuestro sistema autom\xE1tico apagara el incendio mediante gases
+    inertes.\r\nAdvertencia: Procure no respirar dichos gases.\r\n\r\nFallo en los
+    Motor....[Datos faltantes]\r\n\r\n[Datos faltantes]\r\n[Datos faltantes]\r\n[Datos
+    faltantes]\r\n\r\n......o de falta de energ\xEDa caeran barritas de luz luminosas
+    desde depositos esparcidos por la parte superior de la nave.\r\nAdvertencia:
+    No consumir!!, la empresa no se volvera a hacer cargo si algun empleado consume
+    el contenido de las mismas.\r\n\r\n\r\nAtte. Galacta Industries."

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec27fb072349f12478a96fbbbbc7e10b, type: 3}
+  m_Name: Welcome
+  m_EditorClassIdentifier: 
+  title: 'From: Galacta Industries
+
+    To: NictosShip''s Crew
+
+    Subject: Welcome'
+  body: " \rCongratulations one beign part of Galacta\n\r\nEveryone on the team Welcomes
+    you to the ship.\n\r\n\r We hope you find it well on Nictos, and that it soon
+    becomes like a second home adn we become your second family, as you are probably
+    never gonna be able to see your actuall family ever again, but don't worry you
+    can send a letter once every 2 years!!!!\n\r\nWe Welcome you aboard\nSincerely.
+    Human Resources Galacta Industries."
